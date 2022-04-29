@@ -1,0 +1,60 @@
+
+
+#p1{
+    font-size: 40px;
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#p1_help{
+    position: relative;
+    height: auto;
+    width: auto;
+    max-width: 1366px;
+
+}
+
+
+#first{
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+}
+#second{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#thrid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+}
+#four{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#five{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+li{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
