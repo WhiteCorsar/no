@@ -1,0 +1,97 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+#hh{
+    font-size: 35px;
+    color: aliceblue;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+
+    font-family: 'Bebas Neue', cursive;
+}
+#h{
+    font-size: 40px;
+    color: aliceblue;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+
+    font-family: 'Inter', sans-serif;
+}
+#p1{
+    font-size: 20px;
+    color: aliceblue;
+    position: absolute;
+    top: 65%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    font-family: 'Inter', sans-serif;
+    column-count: 2;
+    width: 500px;
+    column-rule: 1px solid rgb(218, 218, 218);
+}
+
+
+#p1_help{
+    position: relative;
+    height: auto;
+    width: auto;
+    max-width: 1920px;
+    max-height: 1155px;
+
+}
+
+.coment{
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+    column-count: 3;
+    width: 420px;
+    column-rule: 1px solid black;
+}
+
+#first{
+    height: 300px
+    width: 500px;
+    margin-left: 20%;
+    border-radius: 15%;
+}
+#second{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#thrid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+}
+#four{
+    height: 300px;
+    width: 450  px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#five{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+li{
+    display: block;
+    margin-left: 45%;
+    font-family: 'Inter', sans-serif;
+}
